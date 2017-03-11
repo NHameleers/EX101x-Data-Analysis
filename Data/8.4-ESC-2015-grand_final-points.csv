@@ -1,0 +1,1707 @@
+From country,To country,Points
+Albania,Armenia,"
+"
+Albania,Australia,3
+Albania,Austria,"
+"
+Albania,Azerbaijan,"
+"
+Albania,Belgium,1
+Albania,Cyprus,"
+"
+Albania,Estonia,4
+Albania,France,"
+"
+Albania,Georgia,"
+"
+Albania,Germany,"
+"
+Albania,Greece,10
+Albania,Hungary,"
+"
+Albania,Israel,5
+Albania,Italy,12
+Albania,Latvia,"
+"
+Albania,Lithuania,"
+"
+Albania,Montenegro,6
+Albania,Norway,"
+"
+Albania,Poland,"
+"
+Albania,Romania,"
+"
+Albania,Russia,8
+Albania,Serbia,2
+Albania,Slovenia,"
+"
+Albania,Spain,"
+"
+Albania,Sweden,7
+Albania,United Kingdom,"
+"
+Armenia,Albania,"
+"
+Armenia,Australia,1
+Armenia,Austria,"
+"
+Armenia,Azerbaijan,"
+"
+Armenia,Belgium,4
+Armenia,Cyprus,"
+"
+Armenia,Estonia,"
+"
+Armenia,France,3
+Armenia,Georgia,10
+Armenia,Germany,"
+"
+Armenia,Greece,5
+Armenia,Hungary,"
+"
+Armenia,Israel,"
+"
+Armenia,Italy,6
+Armenia,Latvia,2
+Armenia,Lithuania,"
+"
+Armenia,Montenegro,8
+Armenia,Norway,"
+"
+Armenia,Poland,"
+"
+Armenia,Romania,"
+"
+Armenia,Russia,12
+Armenia,Serbia,"
+"
+Armenia,Slovenia,"
+"
+Armenia,Spain,"
+"
+Armenia,Sweden,7
+Armenia,United Kingdom,"
+"
+Australia,Albania,"
+"
+Australia,Armenia,"
+"
+Australia,Austria,"
+"
+Australia,Azerbaijan,"
+"
+Australia,Belgium,6
+Australia,Cyprus,"
+"
+Australia,Estonia,3
+Australia,France,"
+"
+Australia,Georgia,1
+Australia,Germany,"
+"
+Australia,Greece,"
+"
+Australia,Hungary,"
+"
+Australia,Israel,2
+Australia,Italy,8
+Australia,Latvia,7
+Australia,Lithuania,"
+"
+Australia,Montenegro,"
+"
+Australia,Norway,4
+Australia,Poland,"
+"
+Australia,Romania,"
+"
+Australia,Russia,10
+Australia,Serbia,5
+Australia,Slovenia,"
+"
+Australia,Spain,"
+"
+Australia,Sweden,12
+Australia,United Kingdom,"
+"
+Austria,Albania,"
+"
+Austria,Armenia,"
+"
+Austria,Australia,12
+Austria,Azerbaijan,"
+"
+Austria,Belgium,5
+Austria,Cyprus,"
+"
+Austria,Estonia,6
+Austria,France,"
+"
+Austria,Georgia,"
+"
+Austria,Germany,"
+"
+Austria,Greece,"
+"
+Austria,Hungary,"
+"
+Austria,Israel,2
+Austria,Italy,10
+Austria,Latvia,1
+Austria,Lithuania,"
+"
+Austria,Montenegro,"
+"
+Austria,Norway,4
+Austria,Poland,"
+"
+Austria,Romania,"
+"
+Austria,Russia,8
+Austria,Serbia,3
+Austria,Slovenia,"
+"
+Austria,Spain,"
+"
+Austria,Sweden,7
+Austria,United Kingdom,"
+"
+Azerbaijan,Albania,"
+"
+Azerbaijan,Armenia,"
+"
+Azerbaijan,Australia,"
+"
+Azerbaijan,Austria,"
+"
+Azerbaijan,Belgium,"
+"
+Azerbaijan,Cyprus,"
+"
+Azerbaijan,Estonia,4
+Azerbaijan,France,"
+"
+Azerbaijan,Georgia,10
+Azerbaijan,Germany,"
+"
+Azerbaijan,Greece,"
+"
+Azerbaijan,Hungary,"
+"
+Azerbaijan,Israel,7
+Azerbaijan,Italy,8
+Azerbaijan,Latvia,5
+Azerbaijan,Lithuania,"
+"
+Azerbaijan,Montenegro,2
+Azerbaijan,Norway,"
+"
+Azerbaijan,Poland,"
+"
+Azerbaijan,Romania,"
+"
+Azerbaijan,Russia,12
+Azerbaijan,Serbia,"
+"
+Azerbaijan,Slovenia,3
+Azerbaijan,Spain,1
+Azerbaijan,Sweden,6
+Azerbaijan,United Kingdom,"
+"
+Belarus,Albania,"
+"
+Belarus,Armenia,4
+Belarus,Australia,6
+Belarus,Austria,"
+"
+Belarus,Azerbaijan,"
+"
+Belarus,Belgium,8
+Belarus,Cyprus,"
+"
+Belarus,Estonia,7
+Belarus,France,"
+"
+Belarus,Georgia,3
+Belarus,Germany,"
+"
+Belarus,Greece,"
+"
+Belarus,Hungary,"
+"
+Belarus,Israel,2
+Belarus,Italy,1
+Belarus,Latvia,5
+Belarus,Lithuania,"
+"
+Belarus,Montenegro,"
+"
+Belarus,Norway,"
+"
+Belarus,Poland,"
+"
+Belarus,Romania,"
+"
+Belarus,Russia,12
+Belarus,Serbia,"
+"
+Belarus,Slovenia,"
+"
+Belarus,Spain,"
+"
+Belarus,Sweden,10
+Belarus,United Kingdom,"
+"
+Belgium,Albania,6
+Belgium,Armenia,3
+Belgium,Australia,4
+Belgium,Austria,"
+"
+Belgium,Azerbaijan,"
+"
+Belgium,Cyprus,"
+"
+Belgium,Estonia,2
+Belgium,France,"
+"
+Belgium,Georgia,1
+Belgium,Germany,"
+"
+Belgium,Greece,"
+"
+Belgium,Hungary,"
+"
+Belgium,Israel,"
+"
+Belgium,Italy,8
+Belgium,Latvia,7
+Belgium,Lithuania,"
+"
+Belgium,Montenegro,"
+"
+Belgium,Norway,"
+"
+Belgium,Poland,"
+"
+Belgium,Romania,5
+Belgium,Russia,10
+Belgium,Serbia,"
+"
+Belgium,Slovenia,"
+"
+Belgium,Spain,"
+"
+Belgium,Sweden,12
+Belgium,United Kingdom,"
+"
+Cyprus,Albania,"
+"
+Cyprus,Armenia,"
+"
+Cyprus,Australia,4
+Cyprus,Austria,"
+"
+Cyprus,Azerbaijan,"
+"
+Cyprus,Belgium,7
+Cyprus,Estonia,2
+Cyprus,France,"
+"
+Cyprus,Georgia,"
+"
+Cyprus,Germany,"
+"
+Cyprus,Greece,8
+Cyprus,Hungary,"
+"
+Cyprus,Israel,6
+Cyprus,Italy,12
+Cyprus,Latvia,3
+Cyprus,Lithuania,"
+"
+Cyprus,Montenegro,"
+"
+Cyprus,Norway,"
+"
+Cyprus,Poland,"
+"
+Cyprus,Romania,1
+Cyprus,Russia,5
+Cyprus,Serbia,"
+"
+Cyprus,Slovenia,"
+"
+Cyprus,Spain,"
+"
+Cyprus,Sweden,10
+Cyprus,United Kingdom,"
+"
+Czech Republic,Albania,"
+"
+Czech Republic,Armenia,2
+Czech Republic,Australia,"
+"
+Czech Republic,Austria,"
+"
+Czech Republic,Azerbaijan,12
+Czech Republic,Belgium,6
+Czech Republic,Cyprus,"
+"
+Czech Republic,Estonia,"
+"
+Czech Republic,France,"
+"
+Czech Republic,Georgia,4
+Czech Republic,Germany,"
+"
+Czech Republic,Greece,"
+"
+Czech Republic,Hungary,1
+Czech Republic,Israel,"
+"
+Czech Republic,Italy,7
+Czech Republic,Latvia,5
+Czech Republic,Lithuania,"
+"
+Czech Republic,Montenegro,"
+"
+Czech Republic,Norway,"
+"
+Czech Republic,Poland,"
+"
+Czech Republic,Romania,"
+"
+Czech Republic,Russia,8
+Czech Republic,Serbia,3
+Czech Republic,Slovenia,"
+"
+Czech Republic,Spain,"
+"
+Czech Republic,Sweden,10
+Czech Republic,United Kingdom,"
+"
+Denmark,Albania,"
+"
+Denmark,Armenia,"
+"
+Denmark,Australia,8
+Denmark,Austria,"
+"
+Denmark,Azerbaijan,"
+"
+Denmark,Belgium,7
+Denmark,Cyprus,"
+"
+Denmark,Estonia,6
+Denmark,France,"
+"
+Denmark,Georgia,"
+"
+Denmark,Germany,"
+"
+Denmark,Greece,"
+"
+Denmark,Hungary,"
+"
+Denmark,Israel,"
+"
+Denmark,Italy,5
+Denmark,Latvia,4
+Denmark,Lithuania,1
+Denmark,Montenegro,"
+"
+Denmark,Norway,3
+Denmark,Poland,"
+"
+Denmark,Romania,2
+Denmark,Russia,10
+Denmark,Serbia,"
+"
+Denmark,Slovenia,"
+"
+Denmark,Spain,"
+"
+Denmark,Sweden,12
+Denmark,United Kingdom,"
+"
+Estonia,Albania,"
+"
+Estonia,Armenia,"
+"
+Estonia,Australia,5
+Estonia,Austria,"
+"
+Estonia,Azerbaijan,"
+"
+Estonia,Belgium,7
+Estonia,Cyprus,"
+"
+Estonia,France,"
+"
+Estonia,Georgia,1
+Estonia,Germany,"
+"
+Estonia,Greece,"
+"
+Estonia,Hungary,8
+Estonia,Israel,"
+"
+Estonia,Italy,3
+Estonia,Latvia,6
+Estonia,Lithuania,2
+Estonia,Montenegro,"
+"
+Estonia,Norway,4
+Estonia,Poland,"
+"
+Estonia,Romania,"
+"
+Estonia,Russia,12
+Estonia,Serbia,"
+"
+Estonia,Slovenia,"
+"
+Estonia,Spain,"
+"
+Estonia,Sweden,10
+Estonia,United Kingdom,"
+"
+F.Y.R. Macedonia,Albania,12
+F.Y.R. Macedonia,Armenia,3
+F.Y.R. Macedonia,Australia,"
+"
+F.Y.R. Macedonia,Austria,"
+"
+F.Y.R. Macedonia,Azerbaijan,"
+"
+F.Y.R. Macedonia,Belgium,1
+F.Y.R. Macedonia,Cyprus,"
+"
+F.Y.R. Macedonia,Estonia,2
+F.Y.R. Macedonia,France,"
+"
+F.Y.R. Macedonia,Georgia,"
+"
+F.Y.R. Macedonia,Germany,"
+"
+F.Y.R. Macedonia,Greece,"
+"
+F.Y.R. Macedonia,Hungary,"
+"
+F.Y.R. Macedonia,Israel,"
+"
+F.Y.R. Macedonia,Italy,7
+F.Y.R. Macedonia,Latvia,"
+"
+F.Y.R. Macedonia,Lithuania,"
+"
+F.Y.R. Macedonia,Montenegro,4
+F.Y.R. Macedonia,Norway,"
+"
+F.Y.R. Macedonia,Poland,"
+"
+F.Y.R. Macedonia,Romania,"
+"
+F.Y.R. Macedonia,Russia,6
+F.Y.R. Macedonia,Serbia,10
+F.Y.R. Macedonia,Slovenia,8
+F.Y.R. Macedonia,Spain,"
+"
+F.Y.R. Macedonia,Sweden,5
+F.Y.R. Macedonia,United Kingdom,"
+"
+Finland,Albania,"
+"
+Finland,Armenia,"
+"
+Finland,Australia,5
+Finland,Austria,"
+"
+Finland,Azerbaijan,"
+"
+Finland,Belgium,7
+Finland,Cyprus,"
+"
+Finland,Estonia,10
+Finland,France,"
+"
+Finland,Georgia,"
+"
+Finland,Germany,"
+"
+Finland,Greece,"
+"
+Finland,Hungary,"
+"
+Finland,Israel,3
+Finland,Italy,2
+Finland,Latvia,6
+Finland,Lithuania,"
+"
+Finland,Montenegro,"
+"
+Finland,Norway,4
+Finland,Poland,"
+"
+Finland,Romania,"
+"
+Finland,Russia,8
+Finland,Serbia,"
+"
+Finland,Slovenia,1
+Finland,Spain,"
+"
+Finland,Sweden,12
+Finland,United Kingdom,"
+"
+France,Albania,"
+"
+France,Armenia,3
+France,Australia,2
+France,Austria,"
+"
+France,Azerbaijan,"
+"
+France,Belgium,12
+France,Cyprus,"
+"
+France,Estonia,"
+"
+France,Georgia,"
+"
+France,Germany,"
+"
+France,Greece,"
+"
+France,Hungary,1
+France,Israel,"
+"
+France,Italy,6
+France,Latvia,7
+France,Lithuania,"
+"
+France,Montenegro,"
+"
+France,Norway,"
+"
+France,Poland,4
+France,Romania,"
+"
+France,Russia,10
+France,Serbia,"
+"
+France,Slovenia,"
+"
+France,Spain,5
+France,Sweden,8
+France,United Kingdom,"
+"
+Georgia,Albania,"
+"
+Georgia,Armenia,12
+Georgia,Australia,"
+"
+Georgia,Austria,"
+"
+Georgia,Azerbaijan,10
+Georgia,Belgium,6
+Georgia,Cyprus,"
+"
+Georgia,Estonia,2
+Georgia,France,"
+"
+Georgia,Germany,"
+"
+Georgia,Greece,"
+"
+Georgia,Hungary,"
+"
+Georgia,Israel,1
+Georgia,Italy,8
+Georgia,Latvia,4
+Georgia,Lithuania,3
+Georgia,Montenegro,"
+"
+Georgia,Norway,"
+"
+Georgia,Poland,"
+"
+Georgia,Romania,"
+"
+Georgia,Russia,5
+Georgia,Serbia,"
+"
+Georgia,Slovenia,"
+"
+Georgia,Spain,"
+"
+Georgia,Sweden,7
+Georgia,United Kingdom,"
+"
+Germany,Albania,"
+"
+Germany,Armenia,"
+"
+Germany,Australia,7
+Germany,Austria,"
+"
+Germany,Azerbaijan,"
+"
+Germany,Belgium,8
+Germany,Cyprus,"
+"
+Germany,Estonia,2
+Germany,France,"
+"
+Germany,Georgia,"
+"
+Germany,Greece,"
+"
+Germany,Hungary,1
+Germany,Israel,5
+Germany,Italy,3
+Germany,Latvia,6
+Germany,Lithuania,"
+"
+Germany,Montenegro,"
+"
+Germany,Norway,4
+Germany,Poland,"
+"
+Germany,Romania,"
+"
+Germany,Russia,12
+Germany,Serbia,"
+"
+Germany,Slovenia,"
+"
+Germany,Spain,"
+"
+Germany,Sweden,10
+Germany,United Kingdom,"
+"
+Greece,Albania,6
+Greece,Armenia,1
+Greece,Australia,5
+Greece,Austria,"
+"
+Greece,Azerbaijan,"
+"
+Greece,Belgium,7
+Greece,Cyprus,10
+Greece,Estonia,"
+"
+Greece,France,"
+"
+Greece,Georgia,2
+Greece,Germany,"
+"
+Greece,Hungary,"
+"
+Greece,Israel,"
+"
+Greece,Italy,12
+Greece,Latvia,3
+Greece,Lithuania,"
+"
+Greece,Montenegro,"
+"
+Greece,Norway,"
+"
+Greece,Poland,"
+"
+Greece,Romania,"
+"
+Greece,Russia,8
+Greece,Serbia,"
+"
+Greece,Slovenia,"
+"
+Greece,Spain,"
+"
+Greece,Sweden,4
+Greece,United Kingdom,"
+"
+Hungary,Albania,"
+"
+Hungary,Armenia,"
+"
+Hungary,Australia,8
+Hungary,Austria,"
+"
+Hungary,Azerbaijan,"
+"
+Hungary,Belgium,12
+Hungary,Cyprus,"
+"
+Hungary,Estonia,7
+Hungary,France,"
+"
+Hungary,Georgia,3
+Hungary,Germany,"
+"
+Hungary,Greece,"
+"
+Hungary,Israel,"
+"
+Hungary,Italy,2
+Hungary,Latvia,5
+Hungary,Lithuania,"
+"
+Hungary,Montenegro,"
+"
+Hungary,Norway,4
+Hungary,Poland,"
+"
+Hungary,Romania,1
+Hungary,Russia,6
+Hungary,Serbia,"
+"
+Hungary,Slovenia,"
+"
+Hungary,Spain,"
+"
+Hungary,Sweden,10
+Hungary,United Kingdom,"
+"
+Iceland,Albania,"
+"
+Iceland,Armenia,"
+"
+Iceland,Australia,8
+Iceland,Austria,"
+"
+Iceland,Azerbaijan,"
+"
+Iceland,Belgium,4
+Iceland,Cyprus,"
+"
+Iceland,Estonia,1
+Iceland,France,"
+"
+Iceland,Georgia,"
+"
+Iceland,Germany,"
+"
+Iceland,Greece,"
+"
+Iceland,Hungary,"
+"
+Iceland,Israel,5
+Iceland,Italy,6
+Iceland,Latvia,7
+Iceland,Lithuania,"
+"
+Iceland,Montenegro,"
+"
+Iceland,Norway,10
+Iceland,Poland,"
+"
+Iceland,Romania,"
+"
+Iceland,Russia,3
+Iceland,Serbia,"
+"
+Iceland,Slovenia,2
+Iceland,Spain,"
+"
+Iceland,Sweden,12
+Iceland,United Kingdom,"
+"
+Ireland,Albania,"
+"
+Ireland,Armenia,"
+"
+Ireland,Australia,5
+Ireland,Austria,"
+"
+Ireland,Azerbaijan,"
+"
+Ireland,Belgium,2
+Ireland,Cyprus,"
+"
+Ireland,Estonia,"
+"
+Ireland,France,"
+"
+Ireland,Georgia,"
+"
+Ireland,Germany,"
+"
+Ireland,Greece,"
+"
+Ireland,Hungary,"
+"
+Ireland,Israel,"
+"
+Ireland,Italy,6
+Ireland,Latvia,12
+Ireland,Lithuania,7
+Ireland,Montenegro,"
+"
+Ireland,Norway,4
+Ireland,Poland,3
+Ireland,Romania,"
+"
+Ireland,Russia,8
+Ireland,Serbia,"
+"
+Ireland,Slovenia,"
+"
+Ireland,Spain,"
+"
+Ireland,Sweden,10
+Ireland,United Kingdom,1
+Israel,Albania,"
+"
+Israel,Armenia,"
+"
+Israel,Australia,7
+Israel,Austria,"
+"
+Israel,Azerbaijan,"
+"
+Israel,Belgium,4
+Israel,Cyprus,"
+"
+Israel,Estonia,3
+Israel,France,"
+"
+Israel,Georgia,"
+"
+Israel,Germany,"
+"
+Israel,Greece,"
+"
+Israel,Hungary,"
+"
+Israel,Italy,12
+Israel,Latvia,"
+"
+Israel,Lithuania,"
+"
+Israel,Montenegro,"
+"
+Israel,Norway,"
+"
+Israel,Poland,"
+"
+Israel,Romania,5
+Israel,Russia,8
+Israel,Serbia,2
+Israel,Slovenia,6
+Israel,Spain,1
+Israel,Sweden,10
+Israel,United Kingdom,"
+"
+Italy,Albania,"
+"
+Italy,Armenia,"
+"
+Italy,Australia,6
+Italy,Austria,"
+"
+Italy,Azerbaijan,"
+"
+Italy,Belgium,7
+Italy,Cyprus,"
+"
+Italy,Estonia,2
+Italy,France,"
+"
+Italy,Georgia,"
+"
+Italy,Germany,"
+"
+Italy,Greece,"
+"
+Italy,Hungary,"
+"
+Italy,Israel,8
+Italy,Latvia,4
+Italy,Lithuania,"
+"
+Italy,Montenegro,"
+"
+Italy,Norway,5
+Italy,Poland,1
+Italy,Romania,"
+"
+Italy,Russia,10
+Italy,Serbia,3
+Italy,Slovenia,"
+"
+Italy,Spain,"
+"
+Italy,Sweden,12
+Italy,United Kingdom,"
+"
+Latvia,Albania,"
+"
+Latvia,Armenia,"
+"
+Latvia,Australia,5
+Latvia,Austria,"
+"
+Latvia,Azerbaijan,"
+"
+Latvia,Belgium,4
+Latvia,Cyprus,"
+"
+Latvia,Estonia,6
+Latvia,France,"
+"
+Latvia,Georgia,"
+"
+Latvia,Germany,"
+"
+Latvia,Greece,"
+"
+Latvia,Hungary,"
+"
+Latvia,Israel,1
+Latvia,Italy,8
+Latvia,Lithuania,7
+Latvia,Montenegro,"
+"
+Latvia,Norway,2
+Latvia,Poland,"
+"
+Latvia,Romania,"
+"
+Latvia,Russia,10
+Latvia,Serbia,"
+"
+Latvia,Slovenia,3
+Latvia,Spain,"
+"
+Latvia,Sweden,12
+Latvia,United Kingdom,"
+"
+Lithuania,Albania,"
+"
+Lithuania,Armenia,"
+"
+Lithuania,Australia,3
+Lithuania,Austria,"
+"
+Lithuania,Azerbaijan,2
+Lithuania,Belgium,7
+Lithuania,Cyprus,"
+"
+Lithuania,Estonia,8
+Lithuania,France,"
+"
+Lithuania,Georgia,6
+Lithuania,Germany,"
+"
+Lithuania,Greece,"
+"
+Lithuania,Hungary,"
+"
+Lithuania,Israel,"
+"
+Lithuania,Italy,1
+Lithuania,Latvia,12
+Lithuania,Montenegro,"
+"
+Lithuania,Norway,5
+Lithuania,Poland,"
+"
+Lithuania,Romania,"
+"
+Lithuania,Russia,"
+"
+Lithuania,Serbia,"
+"
+Lithuania,Slovenia,4
+Lithuania,Spain,"
+"
+Lithuania,Sweden,10
+Lithuania,United Kingdom,"
+"
+Malta,Albania,"
+"
+Malta,Armenia,"
+"
+Malta,Australia,6
+Malta,Austria,"
+"
+Malta,Azerbaijan,8
+Malta,Belgium,"
+"
+Malta,Cyprus,"
+"
+Malta,Estonia,3
+Malta,France,"
+"
+Malta,Georgia,"
+"
+Malta,Germany,"
+"
+Malta,Greece,"
+"
+Malta,Hungary,"
+"
+Malta,Israel,5
+Malta,Italy,12
+Malta,Latvia,4
+Malta,Lithuania,"
+"
+Malta,Montenegro,"
+"
+Malta,Norway,2
+Malta,Poland,"
+"
+Malta,Romania,"
+"
+Malta,Russia,7
+Malta,Serbia,"
+"
+Malta,Slovenia,"
+"
+Malta,Spain,"
+"
+Malta,Sweden,10
+Malta,United Kingdom,1
+Moldova,Albania,"
+"
+Moldova,Armenia,"
+"
+Moldova,Australia,4
+Moldova,Austria,"
+"
+Moldova,Azerbaijan,3
+Moldova,Belgium,6
+Moldova,Cyprus,"
+"
+Moldova,Estonia,"
+"
+Moldova,France,"
+"
+Moldova,Georgia,5
+Moldova,Germany,"
+"
+Moldova,Greece,"
+"
+Moldova,Hungary,"
+"
+Moldova,Israel,"
+"
+Moldova,Italy,7
+Moldova,Latvia,2
+Moldova,Lithuania,"
+"
+Moldova,Montenegro,"
+"
+Moldova,Norway,"
+"
+Moldova,Poland,"
+"
+Moldova,Romania,12
+Moldova,Russia,10
+Moldova,Serbia,"
+"
+Moldova,Slovenia,"
+"
+Moldova,Spain,1
+Moldova,Sweden,8
+Moldova,United Kingdom,"
+"
+Montenegro,Albania,10
+Montenegro,Armenia,"
+"
+Montenegro,Australia,"
+"
+Montenegro,Austria,"
+"
+Montenegro,Azerbaijan,8
+Montenegro,Belgium,"
+"
+Montenegro,Cyprus,"
+"
+Montenegro,Estonia,1
+Montenegro,France,"
+"
+Montenegro,Georgia,"
+"
+Montenegro,Germany,"
+"
+Montenegro,Greece,"
+"
+Montenegro,Hungary,"
+"
+Montenegro,Israel,3
+Montenegro,Italy,6
+Montenegro,Latvia,"
+"
+Montenegro,Lithuania,"
+"
+Montenegro,Norway,"
+"
+Montenegro,Poland,"
+"
+Montenegro,Romania,"
+"
+Montenegro,Russia,7
+Montenegro,Serbia,12
+Montenegro,Slovenia,4
+Montenegro,Spain,2
+Montenegro,Sweden,5
+Montenegro,United Kingdom,"
+"
+Norway,Albania,"
+"
+Norway,Armenia,"
+"
+Norway,Australia,10
+Norway,Austria,"
+"
+Norway,Azerbaijan,"
+"
+Norway,Belgium,7
+Norway,Cyprus,"
+"
+Norway,Estonia,3
+Norway,France,"
+"
+Norway,Georgia,"
+"
+Norway,Germany,"
+"
+Norway,Greece,"
+"
+Norway,Hungary,"
+"
+Norway,Israel,4
+Norway,Italy,5
+Norway,Latvia,8
+Norway,Lithuania,6
+Norway,Montenegro,"
+"
+Norway,Poland,"
+"
+Norway,Romania,"
+"
+Norway,Russia,2
+Norway,Serbia,"
+"
+Norway,Slovenia,1
+Norway,Spain,"
+"
+Norway,Sweden,12
+Norway,United Kingdom,"
+"
+Poland,Albania,"
+"
+Poland,Armenia,"
+"
+Poland,Australia,8
+Poland,Austria,"
+"
+Poland,Azerbaijan,"
+"
+Poland,Belgium,5
+Poland,Cyprus,"
+"
+Poland,Estonia,2
+Poland,France,"
+"
+Poland,Georgia,"
+"
+Poland,Germany,"
+"
+Poland,Greece,"
+"
+Poland,Hungary,"
+"
+Poland,Israel,4
+Poland,Italy,7
+Poland,Latvia,10
+Poland,Lithuania,"
+"
+Poland,Montenegro,"
+"
+Poland,Norway,3
+Poland,Romania,"
+"
+Poland,Russia,6
+Poland,Serbia,"
+"
+Poland,Slovenia,1
+Poland,Spain,"
+"
+Poland,Sweden,12
+Poland,United Kingdom,"
+"
+Portugal,Albania,"
+"
+Portugal,Armenia,"
+"
+Portugal,Australia,"
+"
+Portugal,Austria,"
+"
+Portugal,Azerbaijan,"
+"
+Portugal,Belgium,5
+Portugal,Cyprus,"
+"
+Portugal,Estonia,1
+Portugal,France,"
+"
+Portugal,Georgia,"
+"
+Portugal,Germany,"
+"
+Portugal,Greece,"
+"
+Portugal,Hungary,"
+"
+Portugal,Israel,7
+Portugal,Italy,12
+Portugal,Latvia,2
+Portugal,Lithuania,"
+"
+Portugal,Montenegro,"
+"
+Portugal,Norway,6
+Portugal,Poland,"
+"
+Portugal,Romania,4
+Portugal,Russia,10
+Portugal,Serbia,"
+"
+Portugal,Slovenia,"
+"
+Portugal,Spain,3
+Portugal,Sweden,8
+Portugal,United Kingdom,"
+"
+Romania,Albania,"
+"
+Romania,Armenia,"
+"
+Romania,Australia,2
+Romania,Austria,"
+"
+Romania,Azerbaijan,3
+Romania,Belgium,7
+Romania,Cyprus,"
+"
+Romania,Estonia,"
+"
+Romania,France,"
+"
+Romania,Georgia,"
+"
+Romania,Germany,"
+"
+Romania,Greece,"
+"
+Romania,Hungary,4
+Romania,Israel,1
+Romania,Italy,12
+Romania,Latvia,5
+Romania,Lithuania,"
+"
+Romania,Montenegro,"
+"
+Romania,Norway,6
+Romania,Poland,"
+"
+Romania,Russia,10
+Romania,Serbia,"
+"
+Romania,Slovenia,"
+"
+Romania,Spain,"
+"
+Romania,Sweden,8
+Romania,United Kingdom,"
+"
+Russia,Albania,"
+"
+Russia,Armenia,6
+Russia,Australia,4
+Russia,Austria,"
+"
+Russia,Azerbaijan,3
+Russia,Belgium,10
+Russia,Cyprus,"
+"
+Russia,Estonia,7
+Russia,France,"
+"
+Russia,Georgia,5
+Russia,Germany,"
+"
+Russia,Greece,"
+"
+Russia,Hungary,"
+"
+Russia,Israel,"
+"
+Russia,Italy,12
+Russia,Latvia,2
+Russia,Lithuania,"
+"
+Russia,Montenegro,"
+"
+Russia,Norway,"
+"
+Russia,Poland,"
+"
+Russia,Romania,"
+"
+Russia,Serbia,"
+"
+Russia,Slovenia,"
+"
+Russia,Spain,1
+Russia,Sweden,8
+Russia,United Kingdom,"
+"
+San Marino,Albania,"
+"
+San Marino,Armenia,"
+"
+San Marino,Australia,8
+San Marino,Austria,"
+"
+San Marino,Azerbaijan,"
+"
+San Marino,Belgium,5
+San Marino,Cyprus,"
+"
+San Marino,Estonia,"
+"
+San Marino,France,1
+San Marino,Georgia,"
+"
+San Marino,Germany,"
+"
+San Marino,Greece,"
+"
+San Marino,Hungary,4
+San Marino,Israel,2
+San Marino,Italy,10
+San Marino,Latvia,12
+San Marino,Lithuania,"
+"
+San Marino,Montenegro,"
+"
+San Marino,Norway,6
+San Marino,Poland,"
+"
+San Marino,Romania,"
+"
+San Marino,Russia,"
+"
+San Marino,Serbia,"
+"
+San Marino,Slovenia,"
+"
+San Marino,Spain,"
+"
+San Marino,Sweden,7
+San Marino,United Kingdom,3
+Serbia,Albania,"
+"
+Serbia,Armenia,"
+"
+Serbia,Australia,3
+Serbia,Austria,"
+"
+Serbia,Azerbaijan,"
+"
+Serbia,Belgium,4
+Serbia,Cyprus,"
+"
+Serbia,Estonia,2
+Serbia,France,"
+"
+Serbia,Georgia,"
+"
+Serbia,Germany,"
+"
+Serbia,Greece,"
+"
+Serbia,Hungary,"
+"
+Serbia,Israel,6
+Serbia,Italy,7
+Serbia,Latvia,1
+Serbia,Lithuania,"
+"
+Serbia,Montenegro,12
+Serbia,Norway,"
+"
+Serbia,Poland,"
+"
+Serbia,Romania,"
+"
+Serbia,Russia,10
+Serbia,Slovenia,5
+Serbia,Spain,"
+"
+Serbia,Sweden,8
+Serbia,United Kingdom,"
+"
+Slovenia,Albania,"
+"
+Slovenia,Armenia,"
+"
+Slovenia,Australia,2
+Slovenia,Austria,"
+"
+Slovenia,Azerbaijan,"
+"
+Slovenia,Belgium,3
+Slovenia,Cyprus,1
+Slovenia,Estonia,"
+"
+Slovenia,France,"
+"
+Slovenia,Georgia,"
+"
+Slovenia,Germany,"
+"
+Slovenia,Greece,"
+"
+Slovenia,Hungary,"
+"
+Slovenia,Israel,"
+"
+Slovenia,Italy,8
+Slovenia,Latvia,7
+Slovenia,Lithuania,"
+"
+Slovenia,Montenegro,10
+Slovenia,Norway,4
+Slovenia,Poland,"
+"
+Slovenia,Romania,"
+"
+Slovenia,Russia,5
+Slovenia,Serbia,6
+Slovenia,Spain,"
+"
+Slovenia,Sweden,12
+Slovenia,United Kingdom,"
+"
+Spain,Albania,"
+"
+Spain,Armenia,"
+"
+Spain,Australia,7
+Spain,Austria,"
+"
+Spain,Azerbaijan,"
+"
+Spain,Belgium,6
+Spain,Cyprus,"
+"
+Spain,Estonia,3
+Spain,France,"
+"
+Spain,Georgia,"
+"
+Spain,Germany,"
+"
+Spain,Greece,"
+"
+Spain,Hungary,"
+"
+Spain,Israel,1
+Spain,Italy,12
+Spain,Latvia,4
+Spain,Lithuania,"
+"
+Spain,Montenegro,"
+"
+Spain,Norway,2
+Spain,Poland,"
+"
+Spain,Romania,5
+Spain,Russia,10
+Spain,Serbia,"
+"
+Spain,Slovenia,"
+"
+Spain,Sweden,8
+Spain,United Kingdom,"
+"
+Sweden,Albania,"
+"
+Sweden,Armenia,"
+"
+Sweden,Australia,12
+Sweden,Austria,"
+"
+Sweden,Azerbaijan,"
+"
+Sweden,Belgium,10
+Sweden,Cyprus,"
+"
+Sweden,Estonia,3
+Sweden,France,"
+"
+Sweden,Georgia,"
+"
+Sweden,Germany,"
+"
+Sweden,Greece,"
+"
+Sweden,Hungary,"
+"
+Sweden,Israel,4
+Sweden,Italy,8
+Sweden,Latvia,5
+Sweden,Lithuania,"
+"
+Sweden,Montenegro,2
+Sweden,Norway,7
+Sweden,Poland,"
+"
+Sweden,Romania,"
+"
+Sweden,Russia,6
+Sweden,Serbia,"
+"
+Sweden,Slovenia,1
+Sweden,Spain,"
+"
+Sweden,United Kingdom,"
+"
+Switzerland,Albania,"
+"
+Switzerland,Armenia,"
+"
+Switzerland,Australia,8
+Switzerland,Austria,"
+"
+Switzerland,Azerbaijan,"
+"
+Switzerland,Belgium,2
+Switzerland,Cyprus,"
+"
+Switzerland,Estonia,"
+"
+Switzerland,France,"
+"
+Switzerland,Georgia,"
+"
+Switzerland,Germany,"
+"
+Switzerland,Greece,"
+"
+Switzerland,Hungary,"
+"
+Switzerland,Israel,3
+Switzerland,Italy,6
+Switzerland,Latvia,4
+Switzerland,Lithuania,"
+"
+Switzerland,Montenegro,"
+"
+Switzerland,Norway,10
+Switzerland,Poland,"
+"
+Switzerland,Romania,"
+"
+Switzerland,Russia,7
+Switzerland,Serbia,5
+Switzerland,Slovenia,"
+"
+Switzerland,Spain,1
+Switzerland,Sweden,12
+Switzerland,United Kingdom,"
+"
+The Netherlands,Albania,"
+"
+The Netherlands,Armenia,"
+"
+The Netherlands,Australia,8
+The Netherlands,Austria,"
+"
+The Netherlands,Azerbaijan,"
+"
+The Netherlands,Belgium,12
+The Netherlands,Cyprus,"
+"
+The Netherlands,Estonia,4
+The Netherlands,France,"
+"
+The Netherlands,Georgia,"
+"
+The Netherlands,Germany,"
+"
+The Netherlands,Greece,"
+"
+The Netherlands,Hungary,"
+"
+The Netherlands,Israel,5
+The Netherlands,Italy,7
+The Netherlands,Latvia,2
+The Netherlands,Lithuania,"
+"
+The Netherlands,Montenegro,"
+"
+The Netherlands,Norway,3
+The Netherlands,Poland,"
+"
+The Netherlands,Romania,"
+"
+The Netherlands,Russia,6
+The Netherlands,Serbia,1
+The Netherlands,Slovenia,"
+"
+The Netherlands,Spain,"
+"
+The Netherlands,Sweden,10
+The Netherlands,United Kingdom,"
+"
+United Kingdom,Albania,"
+"
+United Kingdom,Armenia,"
+"
+United Kingdom,Australia,10
+United Kingdom,Austria,"
+"
+United Kingdom,Azerbaijan,"
+"
+United Kingdom,Belgium,3
+United Kingdom,Cyprus,"
+"
+United Kingdom,Estonia,"
+"
+United Kingdom,France,"
+"
+United Kingdom,Georgia,"
+"
+United Kingdom,Germany,"
+"
+United Kingdom,Greece,"
+"
+United Kingdom,Hungary,"
+"
+United Kingdom,Israel,5
+United Kingdom,Italy,8
+United Kingdom,Latvia,7
+United Kingdom,Lithuania,4
+United Kingdom,Montenegro,"
+"
+United Kingdom,Norway,"
+"
+United Kingdom,Poland,2
+United Kingdom,Romania,"
+"
+United Kingdom,Russia,6
+United Kingdom,Serbia,1
+United Kingdom,Slovenia,"
+"
+United Kingdom,Spain,"
+"
+United Kingdom,Sweden,12
